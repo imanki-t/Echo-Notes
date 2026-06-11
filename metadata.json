@@ -1,0 +1,6 @@
+{
+  "name": "Echo Notes",
+  "description": "High-energy spaced-repetition and study tracker with a vibrant neo-brutalist comic book aesthetic, interactive battles and custom focus tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

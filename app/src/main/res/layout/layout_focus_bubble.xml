@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/bubble_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/toast_frame"
+        android:backgroundTint="#FFDE4D"
+        android:textColor="#000000"
+        android:text="🧠 FOCUS BULB"
+        android:textStyle="bold"
+        android:textSize="12sp"
+        android:paddingHorizontal="12sp"
+        android:paddingVertical="6sp"/>
+</FrameLayout>
