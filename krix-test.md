@@ -1,3 +1,3 @@
 line one
-line two
+line two EDITED
 line three
